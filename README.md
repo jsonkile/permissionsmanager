@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/jsonkile/permissionsmanager.svg)](https://jitpack.io/#jsonkile/permissionsmanager)
 # Permissions Manager
 Lightweight kotlin lib to handle runtime permissions on android using Google's [guidelines](https://developer.android.com/guide/topics/permissions/overview).
 
