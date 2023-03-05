@@ -2,6 +2,11 @@
 # Permissions Manager
 Lightweight kotlin lib to handle runtime permissions on android using Google's [guidelines](https://developer.android.com/guide/topics/permissions/overview).
 
+## Implementation
+Add this line to your app gradle build file dependencies
+```
+implementation 'com.github.jsonkile:permissionsmanager:1.0.1'
+```
 
 ## Sample
 ```
